@@ -1,0 +1,28 @@
+{
+  "name": "anylanguagetranslator",
+  "version": "1.0.1",
+  "description": "Package with capability to translates strings and json into below defined languages",
+  "main": "index.js",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0"
+  },
+  "keywords": [
+    "npm",
+    "language-translator",
+    "all language translate",
+    "translate",
+    "any-language-translator",
+    "language-translator",
+    "google-translator",
+    "language-translate",
+    "npm language-translator",
+    "any language translate",
+    "any language translator",
+    "language translate",
+    "translator",
+    "language",
+    "node language translator"
+  ],
+  "author": "Deepak Singh Raghav",
+  "license": "ISC"
+}
